@@ -26,9 +26,3 @@ This project is aimed at developing a learning platform for stock and cryptocurr
 2. **Chart Analysis & Trading:** Users can view live market charts and execute trades with virtual currency.
 3. **Mail Server for Contact:** A simple system where users can send feedback or inquiries, receiving responses via email.
 4. **Email Notifications:** The system sends notifications whenever significant events occur, such as market changes or updates to the platform.
-
-## **Setup Instructions**
-1. Clone this repository.
-2. Set up the database for user registration and virtual currency.
-3. Configure the mail server for user notifications and contact inquiries.
-4. Deploy the web application and customize the design.
